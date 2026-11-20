@@ -1,6 +1,7 @@
 # my-docker-app
 
 ![FastAPI CI](https://github.com/Shlokkodre/my-docker-app/actions/workflows/ci.yml/badge.svg)
+[![CI](https://github.com/Omi7590/docker-project/actions/workflows/ci.yml/badge.svg)](https://github.com/Omi7590/docker-project/actions/workflows/ci.yml)
 
 A FastAPI application containerized with Docker, with automated testing via GitHub Actions.
 
